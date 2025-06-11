@@ -79,5 +79,5 @@ N’hésite pas à ouvrir une issue ou proposer une pull request.
 
 ## Licence
 
-MIT © TonNom
+MIT © Keumss
 
